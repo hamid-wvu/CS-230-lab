@@ -1,5 +1,5 @@
 
-function Card() {
+function Card(props) {
   return (
     <div className="cards">
         <div class="card-group">
